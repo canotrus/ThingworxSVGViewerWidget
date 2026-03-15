@@ -1,0 +1,14 @@
+/* Composer preview styles for SVGViewer */
+.widget-SVGViewer {
+	width: 100%;
+	height: 100%;
+	display: block;
+	overflow: hidden;
+}
+
+.widget-SVGViewer svg {
+	width: 100% !important;
+	height: 100% !important;
+}
+
+
