@@ -1,12 +1,6 @@
 # SVGViewer Widget Documentation
 **Architecture, Configuration and Usage Guide**
 
-| Doc Ver. | Widget Ver. | Date | Updated By | Change Type | Description of Change |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1.0.1 | 05.02.2026 | Can OTRUS | First Doc | Initial documentation |
-
----
-
 ## Contents
 1. [General Description and Purpose](#1-general-description-and-purpose)
 2. [Properties](#2-properties)
